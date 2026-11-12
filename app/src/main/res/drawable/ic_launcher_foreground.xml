@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Anillo tenue -->
+    <path
+        android:pathData="M21,54 a33,33 0 1,0 66,0 a33,33 0 1,0 -66,0"
+        android:strokeColor="#26323F"
+        android:strokeWidth="1.5" />
+    <!-- Copo de nieve -->
+    <path
+        android:pathData="M54.00,54.00 L54.00,32.00 M54.00,40.00 L48.64,35.50 M54.00,40.00 L59.36,35.50 M54.00,54.00 L34.95,43.00 M41.88,47.00 L35.30,49.39 M41.88,47.00 L40.66,40.11 M54.00,54.00 L34.95,65.00 M41.88,61.00 L40.66,67.89 M41.88,61.00 L35.30,58.61 M54.00,54.00 L54.00,76.00 M54.00,68.00 L59.36,72.50 M54.00,68.00 L48.64,72.50 M54.00,54.00 L73.05,65.00 M66.12,61.00 L72.70,58.61 M66.12,61.00 L67.34,67.89 M54.00,54.00 L73.05,43.00 M66.12,47.00 L67.34,40.11 M66.12,47.00 L72.70,49.39"
+        android:strokeColor="#4FD1C5"
+        android:strokeWidth="3.4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
